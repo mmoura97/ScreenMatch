@@ -13,7 +13,7 @@ public class Loop {
             mediaavaliacao += notaDoFilme;
         }
 
-        System.out.println("Media de Avaliações " + mediaavaliacao);
+        System.out.println("Media de Avaliações " + mediaavaliacao/3);
 
     }
 }
